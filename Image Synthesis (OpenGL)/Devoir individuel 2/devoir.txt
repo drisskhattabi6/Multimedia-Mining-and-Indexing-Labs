@@ -1,0 +1,13 @@
+BUT:  Diminuer le nombre de sommets/faces d'un modèle 3D tout en préservant la qualité visuelle et le niveau des détails recherchés.
+
+Tâches à faire: 
+
+- Décoder un fichier .obj, choisir les structures de données convenables pour retrouver aisément les différentes primitives (en attachement, une description du format obj (Wavefront OBJ File)).
+
+- Implémenter les algorithmes de réduction de maillage suivants:
+       - Vertex Clustering
+       - Edge Collapse
+
+- Faire une comparaison des résultats en utilisant les modèles du sous-dossier DVI2
+
+- Sauvegarder l'objet résultat  dans un nouveau fichier .obj
